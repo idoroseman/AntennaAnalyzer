@@ -1,0 +1,51 @@
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.exe.config
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.exe
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.xml
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.pdb
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Form1.resx
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Form1.vb
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Form1.Designer.vb
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.exe.manifest
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.application
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.exe
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.pdb
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.xml
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\ThriftyAntennaSweeper.Form1.resources
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\ThriftyAntennaSweeper.Resources.resources
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.vbproj.GenerateResource.Cache
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.exe.manifest
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.application
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.exe.config
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.exe
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.xml
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.pdb
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\Form1.resx
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\Form1.vb
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\Form1.Designer.vb
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.exe.manifest
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.application
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.exe
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.pdb
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.xml
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\ThriftyAntennaSweeper.Form1.resources
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\ThriftyAntennaSweeper.Resources.resources
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.vbproj.GenerateResource.Cache
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.exe.manifest
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.application
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\Form1.resx
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\Form1.vb
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\Form1.Designer.vb
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.vbproj.GenerateResource.Cache
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\K6BEZ Antenna Analyser.exe.config
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\K6BEZ Antenna Analyser.exe.manifest
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\K6BEZ Antenna Analyser.application
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\K6BEZ Antenna Analyser.exe
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\K6BEZ Antenna Analyser.pdb
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\bin\Debug\K6BEZ Antenna Analyser.xml
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\K6BEZAntennaAnalyser.Form1.resources
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\K6BEZAntennaAnalyser.Resources.resources
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\K6BEZ Antenna Analyser.exe.manifest
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\K6BEZ Antenna Analyser.application
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\K6BEZ Antenna Analyser.exe
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\K6BEZ Antenna Analyser.xml
+C:\Users\Beric Dunn\Dropbox\Beric\Sweeper\Code\ThriftySourceCode\WindowsApplication1\obj\Debug\K6BEZ Antenna Analyser.pdb

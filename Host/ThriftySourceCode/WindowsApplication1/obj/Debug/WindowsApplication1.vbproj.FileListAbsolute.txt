@@ -1,0 +1,30 @@
+C:\Users\Beric Dunn\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Beric Dunn\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Beric Dunn\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Beric Dunn\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Beric Dunn\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Beric Dunn\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Beric Dunn\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Beric Dunn\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Beric Dunn\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Beric Dunn\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Beric Dunn\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Form1.resx
+C:\Users\Beric Dunn\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Form1.vb
+C:\Users\Beric Dunn\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Form1.Designer.vb
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Form1.resx
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Form1.vb
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Form1.Designer.vb
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.exe.config
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.exe
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.pdb
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.xml
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\ThriftyAntennaSweeper.Form1.resources
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\ThriftyAntennaSweeper.Resources.resources
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.exe
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.xml
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.pdb
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.exe.manifest
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\bin\Debug\Thrifty Antenna Sweeper.application
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.exe.manifest
+C:\Users\Beric Dunn\Dropbox\Sweeper\Code\WindowsApplication1\WindowsApplication1\obj\Debug\Thrifty Antenna Sweeper.application
